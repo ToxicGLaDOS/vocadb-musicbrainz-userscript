@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         VocaDB MusicBrainz Importer
-// @namespace    https://blackolivepineapple.pizza
+// @namespace    https://github.com/ToxicGLaDOS/vocadb-musicbrainz-userscript
 // @version      0.1
 // @description  Allows you easily import albums from VocaDB into MusicBrainz
 // @match        https://vocadb.net/Al/*
